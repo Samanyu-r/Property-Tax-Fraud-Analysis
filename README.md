@@ -1,6 +1,6 @@
 # Property-Tax-Fraud-Analysis
 
-#Problem statement:
+# Problem statement:
 The kind of fraud the clients are looking for is people underpaying tax by misrepresenting their property characteristics, so they’re looking for unusual property values for the listed characteristics of the property.
 
 # Dataset Description
@@ -9,4 +9,5 @@ Source: Open data of NYC government Dataset URL: https://data.cityofnewyork.us/H
 Time Period: November 2010 
 No. of Fields: 32 No. of Records: 1,070,994
 
+# 
 Principal component analysis, Z-score, and Autoencoder were used to solve the problem after proper handling of missing values and feature engineering.
