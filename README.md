@@ -1,6 +1,6 @@
 # Property-Tax-Fraud-Analysis
 
-# Problem statement:
+# Problem Statement
 The kind of fraud the clients are looking for is people underpaying tax by misrepresenting their property characteristics, so they’re looking for unusual property values for the listed characteristics of the property.
 
 # Dataset Description
